@@ -1,0 +1,12 @@
+**/.git/
+*.bak*
+
+**/.terraform/
+*.tfvars
+*.tfstate*
+*_override.tf
+
+.direnv/
+.env
+.envrc*
+!.envrc
